@@ -13,7 +13,7 @@ import Foundation
 
 let package = Package(
     name: "au10tixdetectormanager-ios",
-    products: [ 
+    products: [
         .library(name: "Au10tixDetectorManager", targets: ["Au10tixDetectorManager"])
     ],
     targets: [
